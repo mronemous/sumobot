@@ -2,17 +2,17 @@
 
 Sumobot is an open source sumobot design made for [BlueFletch Halloween Hack](http://bluefletch.com). Most existing sumo kits cost between $99 and $160. Since we're trying to keep our event costs down, I decided to try to design a bot that could be put together for around $50 including the cost of the Arduino.
 
-## Components
+## Provided Components
 
 | Name | Qty | Total | Link |
 | --- | --- | --- | --- |
-| Chassis | 1  | 19.99  | https://www.pololu.com/product/1418 |
-| Sumo Shield | 1  | 2.95  | https://www.pololu.com/product/1410 |
-| Arduino | 1  | 10.49  | https://www.amazon.com/gp/product/B00E5WJSHK/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
-| Motor Shield | 1  | 8.99  | https://www.amazon.com/gp/product/B00813HBBO/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1 |
-| Motors | 2  | 17.40  | https://www.amazon.com/gp/product/B009AQLDSS/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
+| Chassis | 1  | $19.99  | https://www.pololu.com/product/1418 |
+| Sumo Shield | 1  | $2.95  | https://www.pololu.com/product/1410 |
+| Arduino | 1  | $10.49  | https://www.amazon.com/gp/product/B00E5WJSHK/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
+| Motor Shield | 1  | $8.99  | https://www.amazon.com/gp/product/B00813HBBO/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1 |
+| Motors | 2  | $17.40  | https://www.amazon.com/gp/product/B009AQLDSS/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
 |  |  |  |  |
-| Total | | 59.82  | |
+| Total | | $59.82  | |
 
 Each bot also requires 4 AA batteries, and you will need at least 2 long [usb cables](https://www.amazon.com/dp/B00BCWALHM/ref=twister_B00CES8HYM?_encoding=UTF8&psc=1) for battles.
 
@@ -53,4 +53,4 @@ Heavily inspired by
 
 <img src="https://github.com/makenai/sumobot-jr/raw/master/assets/amalgamation.png">
 
-Design by [@makenai](http://twitter.com/makenai) with feedback and ideas from [@noopkat](http://twitter.com/noopkat) aka (by their powers combined) Amalgamation of Cats.
+[Summobot Jr](https://github.com/makenai/sumobot-jr)
