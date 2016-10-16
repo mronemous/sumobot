@@ -11,7 +11,7 @@ Sumobot is an open source sumobot design made for [BlueFletch Halloween Hack](ht
 | Arduino | 1  | 10.49  | https://www.amazon.com/gp/product/B00E5WJSHK/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
 | Motor Shield | 1  | 8.99  | https://www.amazon.com/gp/product/B00813HBBO/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1 |
 | Motors | 2  | 17.40  | https://www.amazon.com/gp/product/B009AQLDSS/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 |
-| --- | --- | --- | --- |
+|  |  |  |  |
 | Total | | 59.82  | |
 
 Each bot also requires 4 AA batteries, and you will need at least 2 long [usb cables](https://www.amazon.com/dp/B00BCWALHM/ref=twister_B00CES8HYM?_encoding=UTF8&psc=1) for battles.
@@ -24,7 +24,7 @@ Each bot also requires 4 AA batteries, and you will need at least 2 long [usb ca
 
 ## Build instructions
 
-Use the [build instructions]() to make the sumobot.
+Use the [build instructions](https://github.com/mronemous/sumobot/blob/master/instructions/build-instructions.pdf) to make the sumobot.
 
 ## License
 
