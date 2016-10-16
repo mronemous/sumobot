@@ -24,8 +24,8 @@ Each bot also requires 4 AA batteries, and you will need at least 2 long [usb ca
 
 ## Build instructions
 
-Use the [Zumo Chassis instructions](https://github.com/mronemous/sumobot/blob/master/instructions/zumo-chassis.pdf) to build the base chassis.
-Use the [build instructions](https://github.com/mronemous/sumobot/blob/master/instructions/build-instructions.pdf) to complete the sumobot.
++ Use the [Zumo Chassis instructions](https://github.com/mronemous/sumobot/blob/master/instructions/zumo-chassis.pdf) to build the base chassis.
++ Use the [build instructions](https://github.com/mronemous/sumobot/blob/master/instructions/build-instructions.pdf) to complete the sumobot.
 
 ## License
 
