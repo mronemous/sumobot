@@ -21,12 +21,12 @@ Each bot also requires 4 AA batteries, and you will need at least 2 long [usb ca
 + You cannot include additional motors, servos, sensors, or shields, and must use what is provided.
 + You can 3D print parts to creatively apply the servo in battle.
 + You are free to extend the software to help your driver.
-+ Robot must be able to fit in box of 10 cm width and depth.  Height is not restricted.
-+ Robot weight cannot exceed 500 g.
++ Robot must be able to fit in box of 11 cm width and 18 cm depth.  Height is not restricted.
++ Robot weight cannot exceed 500 g (TBD).
 + The robot must not include a firing device (including blow torches).
 + The robot must not include a throwing device.
 + The robot must not include any part that fixes the robot and prevents it from moving (such as suckers, glue and so on).
-+ The robot will not include any device that increases the apparent weight of the robot (such as vacuums, fans, or magnetic systems to push or pull the robot down onto the dohyo surface). 
++ The robot will not include any device that increases the apparent weight of the robot (such as vacuums, fans, or magnetic systems to push or pull the robot down onto the dohyo surface).
 
 ## Build instructions
 
